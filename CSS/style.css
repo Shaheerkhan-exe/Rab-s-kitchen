@@ -115,7 +115,7 @@
     HERO SECTION
 ========================= */
 .hero_section {
-    background: url(/image/img1.jpg) center center no-repeat;
+    background: url('../image/img1.jpg') center center no-repeat;
     background-size: cover;
     height: 100vh;
     display: flex;
